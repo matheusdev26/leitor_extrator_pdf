@@ -1,0 +1,1 @@
+# leitor_extrator_pdf
